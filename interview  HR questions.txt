@@ -1,0 +1,178 @@
+
+In you company how many project did you have works on your company?
+ Basically , I have  worked on multiple projects but currently I am working on one project to create template's and transaction's and layouts and targets.
+
+Can you please tell me about your projects that you have worked in your company?
+
+Which domain did you  have worked.
+
+1. Adeptia -(Business )
+2. find us here-( IT services management)
+3. E- retail - (E commerce)
+
+Tell me about yourself?
+As you know my name is Shailandra kumar. i am from Kasganj but currently i living in Noida.
+i have complete my graduation in BSC from swami Vivekananda Subharti university Meerut. if you
+talk about my experience i have 4.2 years+ experience in automation testing my current organization 
+is Adeptia . if you talk about my roles and reasonability .
+firstly we gathering the requirement with the BA and some responsible person. then after that we 
+create the test cases after that we automate the test case according to the requirement in different-different module.
+if you talk about my technical skills- so i am working selenium with java with the test NG framework
+we use data driven approach for read and write data from the Excel. for the designing of the framework,
+we are using page object model for automation we prefer java language. Also work in the manual side and 
+also worked with the API testing use JIRA tool for bug tracking. If you talk about my project structure
+show my projects mainly divided into two parts, first SRC main java second is SRC test java, in SRC main java
+we have multiple packages there like application utility, base utility, Excel utility-second in SRC test we call 
+all the action methods in the test class so, implement page object model.
+that's the maven And CI point of view we implement Jenkins.
+
+How many experience do you have in automation?
+i have  2 years+ experience in automation testing.
+
+Do you experience do you have in manual?
+yes i have experience  in manual testing but mainly we working on 
+automation testing
+
+Did you have experience in Java? So how much experience did you have in java?
+we have 4+ years of experience in java with selenium.
+
+Did you have experience in API? So how much experience did you have in API?
+yes i have 3+ years experience in API (application programming interface) testing basically we used to make the 
+communication between two or more server that's API testing
+
+What is your notice period and how soon you can join with our company?
+one month notice period  but i have paid leave so i negotiate so i will manage.
+
+Tell me your daily routine?
+firstly thing i do after login in my system. i check the active sprint in Jira for our project code. there
+i can see  my assigned open tasks . after that i will check  my mail if there is any important mail  i need to
+ take action on . then we have our daily scrum meeting where we used it tell our previous day actions what
+we did, what we are planning for today if we have any blocker to discuss. product owner and scrum master
+help us to resolve that blocker. after that i need to take the pending task and do needed action whether creating
+test case, execution, Defect retesting if any .
+
+Tell me your daily roles and responsibility?
+firstly we gathering the requirement with the BA and some responsible person. then after that we 
+create the tests case according to the requirement and divided into different-different module and  after that we automate the test case according to the requirement 
+if you talk about my technical skills- so i am working selenium with java with the test NG framework
+we use data driven approach for read and write data from the Excel. for the designing of the framework,
+we are using page object model. for automation we prefer java language. Also work in the manual side and 
+also worked with the API testing. I use JIRA tool for bug tracking
+
+Tell me your daily roles and responsibility FOR MANUAL Testing?
+firstly we gathering the requirement with the BA and some responsible person and identify required the test
+scenario and test the design phase and setting up the environment according to the requirement. 
+excute the test cases to validate application. after that defect report and tracking , retest report and tracking
+and creating automation scripts. provides recommendation on the application whether it is ready for production or not. 
+
+-
+
+What is SDLC And STLC PROCESS
+SDLC
+*requirement gathering 
+*designing phase
+*implementation
+*testing phase
+*deployment
+*maintenance
+STLC
+*requirement analysis 
+* test case designing 
+*environment setup
+*test case execution
+*defect logging
+*test cycle closure
+
+why you change your job ?
+actually looking for better career prospects, and professional growth
+and ready few new role and challenges as well.
+
+
+
+Bug Life Cycle
+
+New
+A bug is identified and logged by a tester or user.
+
+Assigned
+The bug is assigned to a developer for analysis and fixing.
+
+Open
+The developer starts working on the bug.
+
+In Progress / In Development
+The bug is being actively fixed.
+
+Fixed / Resolved
+The developer has applied a fix and marks it as resolved.
+
+Ready for Retest
+The bug is sent to the QA team for re-verification.
+
+Retest
+he QA team retests the application to confirm the fix.
+
+Verified
+If the bug no longer exists, it is marked as verified.
+
+Closed
+The bug is officially closed after successful verification.
+
+
+ GIT Command
+
+
+git config --global user.name "Your Name"
+git config --global user. Email "your.email@example.com"
+
+git init
+git clone <repository-url>
+
+git status
+
+git add <file-name>
+git add .
+
+git commit -m "Your commit message"
+
+git log
+
+git branch <branch-name>
+git checkout <branch-name>
+git checkout -b <branch-name>
+
+git merge <branch-name>
+
+git push origin <branch-name>
+git push --all
+
+git pull origin <branch-name>
+
+git stash
+git stash apply
+
+git branch -d <branch-name>
+git branch -D <branch-name>
+git push origin --delete <branch-name>
+
+git checkout -- <file-name>
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+
+git remote -v
+git remote add origin <repository-url>
+
+
+API Error code
+
+500 Internal Server Error
+A generic error when the server encounters an unexpected condition.
+
+502 Bad Gateway
+The server, while acting as a gateway or proxy, received an invalid response from the upstream server.
+
+503 Service Unavailable
+The server is currently unavailable (overloaded or down for maintenance).
+
+504 Gateway Timeout
+The server, while acting as a gateway or proxy, did not get a timely response from the upstream server.
